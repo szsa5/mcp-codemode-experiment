@@ -1,0 +1,22 @@
+{
+  "name": "wesley-experiments",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "standard": "tsx src/clients/standard_mcp_client.ts",
+    "codemode": "tsx src/clients/codemode_mcp_client.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.830.0",
+    "@cloudflare/codemode": "^0.1.0",
+    "@modelcontextprotocol/sdk": "^1.10.0",
+    "ai": "^6.0.0",
+    "typescript": "^5.8.3",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.22.4"
+  }
+}

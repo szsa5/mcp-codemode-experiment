@@ -1,0 +1,775 @@
+{
+  "version": 1,
+  "node_count": 64,
+  "start_id": "n0",
+  "nodes": [
+    {
+      "id": "n0",
+      "value": 11,
+      "attrs": {
+        "color": "red",
+        "size": 5,
+        "weight": 7,
+        "region": "north",
+        "material": "oak"
+      },
+      "next_id": "n1"
+    },
+    {
+      "id": "n1",
+      "value": 48,
+      "attrs": {
+        "color": "green",
+        "size": 18,
+        "weight": 36,
+        "region": "north",
+        "material": "linen"
+      },
+      "next_id": "n2"
+    },
+    {
+      "id": "n2",
+      "value": 85,
+      "attrs": {
+        "color": "blue",
+        "size": 31,
+        "weight": 65,
+        "region": "north",
+        "material": "steel"
+      },
+      "next_id": "n3"
+    },
+    {
+      "id": "n3",
+      "value": 122,
+      "attrs": {
+        "color": "amber",
+        "size": 44,
+        "weight": 94,
+        "region": "north",
+        "material": "basalt"
+      },
+      "next_id": "n4"
+    },
+    {
+      "id": "n4",
+      "value": 159,
+      "attrs": {
+        "color": "violet",
+        "size": 7,
+        "weight": 23,
+        "region": "south",
+        "material": "glass"
+      },
+      "next_id": "n5"
+    },
+    {
+      "id": "n5",
+      "value": 196,
+      "attrs": {
+        "color": "teal",
+        "size": 20,
+        "weight": 52,
+        "region": "south",
+        "material": "oak"
+      },
+      "next_id": "n6"
+    },
+    {
+      "id": "n6",
+      "value": 233,
+      "attrs": {
+        "color": "coral",
+        "size": 33,
+        "weight": 81,
+        "region": "south",
+        "material": "linen"
+      },
+      "next_id": "n7"
+    },
+    {
+      "id": "n7",
+      "value": 270,
+      "attrs": {
+        "color": "slate",
+        "size": 46,
+        "weight": 10,
+        "region": "south",
+        "material": "steel"
+      },
+      "next_id": "n8"
+    },
+    {
+      "id": "n8",
+      "value": 307,
+      "attrs": {
+        "color": "red",
+        "size": 9,
+        "weight": 39,
+        "region": "east",
+        "material": "basalt"
+      },
+      "next_id": "n9"
+    },
+    {
+      "id": "n9",
+      "value": 344,
+      "attrs": {
+        "color": "green",
+        "size": 22,
+        "weight": 68,
+        "region": "east",
+        "material": "glass"
+      },
+      "next_id": "n10"
+    },
+    {
+      "id": "n10",
+      "value": 381,
+      "attrs": {
+        "color": "blue",
+        "size": 35,
+        "weight": 97,
+        "region": "east",
+        "material": "oak"
+      },
+      "next_id": "n11"
+    },
+    {
+      "id": "n11",
+      "value": 418,
+      "attrs": {
+        "color": "amber",
+        "size": 48,
+        "weight": 26,
+        "region": "east",
+        "material": "linen"
+      },
+      "next_id": "n12"
+    },
+    {
+      "id": "n12",
+      "value": 455,
+      "attrs": {
+        "color": "violet",
+        "size": 11,
+        "weight": 55,
+        "region": "west",
+        "material": "steel"
+      },
+      "next_id": "n13"
+    },
+    {
+      "id": "n13",
+      "value": 492,
+      "attrs": {
+        "color": "teal",
+        "size": 24,
+        "weight": 84,
+        "region": "west",
+        "material": "basalt"
+      },
+      "next_id": "n14"
+    },
+    {
+      "id": "n14",
+      "value": 529,
+      "attrs": {
+        "color": "coral",
+        "size": 37,
+        "weight": 13,
+        "region": "west",
+        "material": "glass"
+      },
+      "next_id": "n15"
+    },
+    {
+      "id": "n15",
+      "value": 566,
+      "attrs": {
+        "color": "slate",
+        "size": 0,
+        "weight": 42,
+        "region": "west",
+        "material": "oak"
+      },
+      "next_id": "n16"
+    },
+    {
+      "id": "n16",
+      "value": 603,
+      "attrs": {
+        "color": "red",
+        "size": 13,
+        "weight": 71,
+        "region": "north",
+        "material": "linen"
+      },
+      "next_id": "n17"
+    },
+    {
+      "id": "n17",
+      "value": 640,
+      "attrs": {
+        "color": "green",
+        "size": 26,
+        "weight": 0,
+        "region": "north",
+        "material": "steel"
+      },
+      "next_id": "n18"
+    },
+    {
+      "id": "n18",
+      "value": 677,
+      "attrs": {
+        "color": "blue",
+        "size": 39,
+        "weight": 29,
+        "region": "north",
+        "material": "basalt"
+      },
+      "next_id": "n19"
+    },
+    {
+      "id": "n19",
+      "value": 714,
+      "attrs": {
+        "color": "amber",
+        "size": 2,
+        "weight": 58,
+        "region": "north",
+        "material": "glass"
+      },
+      "next_id": "n20"
+    },
+    {
+      "id": "n20",
+      "value": 751,
+      "attrs": {
+        "color": "violet",
+        "size": 15,
+        "weight": 87,
+        "region": "south",
+        "material": "oak"
+      },
+      "next_id": "n21"
+    },
+    {
+      "id": "n21",
+      "value": 788,
+      "attrs": {
+        "color": "teal",
+        "size": 28,
+        "weight": 16,
+        "region": "south",
+        "material": "linen"
+      },
+      "next_id": "n22"
+    },
+    {
+      "id": "n22",
+      "value": 825,
+      "attrs": {
+        "color": "coral",
+        "size": 41,
+        "weight": 45,
+        "region": "south",
+        "material": "steel"
+      },
+      "next_id": "n23"
+    },
+    {
+      "id": "n23",
+      "value": 862,
+      "attrs": {
+        "color": "slate",
+        "size": 4,
+        "weight": 74,
+        "region": "south",
+        "material": "basalt"
+      },
+      "next_id": "n24"
+    },
+    {
+      "id": "n24",
+      "value": 899,
+      "attrs": {
+        "color": "red",
+        "size": 17,
+        "weight": 3,
+        "region": "east",
+        "material": "glass"
+      },
+      "next_id": "n25"
+    },
+    {
+      "id": "n25",
+      "value": 936,
+      "attrs": {
+        "color": "green",
+        "size": 30,
+        "weight": 32,
+        "region": "east",
+        "material": "oak"
+      },
+      "next_id": "n26"
+    },
+    {
+      "id": "n26",
+      "value": 973,
+      "attrs": {
+        "color": "blue",
+        "size": 43,
+        "weight": 61,
+        "region": "east",
+        "material": "linen"
+      },
+      "next_id": "n27"
+    },
+    {
+      "id": "n27",
+      "value": 13,
+      "attrs": {
+        "color": "amber",
+        "size": 6,
+        "weight": 90,
+        "region": "east",
+        "material": "steel"
+      },
+      "next_id": "n28"
+    },
+    {
+      "id": "n28",
+      "value": 50,
+      "attrs": {
+        "color": "violet",
+        "size": 19,
+        "weight": 19,
+        "region": "west",
+        "material": "basalt"
+      },
+      "next_id": "n29"
+    },
+    {
+      "id": "n29",
+      "value": 87,
+      "attrs": {
+        "color": "teal",
+        "size": 32,
+        "weight": 48,
+        "region": "west",
+        "material": "glass"
+      },
+      "next_id": "n30"
+    },
+    {
+      "id": "n30",
+      "value": 124,
+      "attrs": {
+        "color": "coral",
+        "size": 45,
+        "weight": 77,
+        "region": "west",
+        "material": "oak"
+      },
+      "next_id": "n31"
+    },
+    {
+      "id": "n31",
+      "value": 161,
+      "attrs": {
+        "color": "slate",
+        "size": 8,
+        "weight": 6,
+        "region": "west",
+        "material": "linen"
+      },
+      "next_id": "n32"
+    },
+    {
+      "id": "n32",
+      "value": 198,
+      "attrs": {
+        "color": "red",
+        "size": 21,
+        "weight": 35,
+        "region": "north",
+        "material": "steel"
+      },
+      "next_id": "n33"
+    },
+    {
+      "id": "n33",
+      "value": 235,
+      "attrs": {
+        "color": "green",
+        "size": 34,
+        "weight": 64,
+        "region": "north",
+        "material": "basalt"
+      },
+      "next_id": "n34"
+    },
+    {
+      "id": "n34",
+      "value": 272,
+      "attrs": {
+        "color": "blue",
+        "size": 47,
+        "weight": 93,
+        "region": "north",
+        "material": "glass"
+      },
+      "next_id": "n35"
+    },
+    {
+      "id": "n35",
+      "value": 309,
+      "attrs": {
+        "color": "amber",
+        "size": 10,
+        "weight": 22,
+        "region": "north",
+        "material": "oak"
+      },
+      "next_id": "n36"
+    },
+    {
+      "id": "n36",
+      "value": 346,
+      "attrs": {
+        "color": "violet",
+        "size": 23,
+        "weight": 51,
+        "region": "south",
+        "material": "linen"
+      },
+      "next_id": "n37"
+    },
+    {
+      "id": "n37",
+      "value": 383,
+      "attrs": {
+        "color": "teal",
+        "size": 36,
+        "weight": 80,
+        "region": "south",
+        "material": "steel"
+      },
+      "next_id": "n38"
+    },
+    {
+      "id": "n38",
+      "value": 420,
+      "attrs": {
+        "color": "coral",
+        "size": 49,
+        "weight": 9,
+        "region": "south",
+        "material": "basalt"
+      },
+      "next_id": "n39"
+    },
+    {
+      "id": "n39",
+      "value": 457,
+      "attrs": {
+        "color": "slate",
+        "size": 12,
+        "weight": 38,
+        "region": "south",
+        "material": "glass"
+      },
+      "next_id": "n40"
+    },
+    {
+      "id": "n40",
+      "value": 494,
+      "attrs": {
+        "color": "red",
+        "size": 25,
+        "weight": 67,
+        "region": "east",
+        "material": "oak"
+      },
+      "next_id": "n41"
+    },
+    {
+      "id": "n41",
+      "value": 531,
+      "attrs": {
+        "color": "green",
+        "size": 38,
+        "weight": 96,
+        "region": "east",
+        "material": "linen"
+      },
+      "next_id": "n42"
+    },
+    {
+      "id": "n42",
+      "value": 568,
+      "attrs": {
+        "color": "blue",
+        "size": 1,
+        "weight": 25,
+        "region": "east",
+        "material": "steel"
+      },
+      "next_id": "n43"
+    },
+    {
+      "id": "n43",
+      "value": 605,
+      "attrs": {
+        "color": "amber",
+        "size": 14,
+        "weight": 54,
+        "region": "east",
+        "material": "basalt"
+      },
+      "next_id": "n44"
+    },
+    {
+      "id": "n44",
+      "value": 642,
+      "attrs": {
+        "color": "violet",
+        "size": 27,
+        "weight": 83,
+        "region": "west",
+        "material": "glass"
+      },
+      "next_id": "n45"
+    },
+    {
+      "id": "n45",
+      "value": 679,
+      "attrs": {
+        "color": "teal",
+        "size": 40,
+        "weight": 12,
+        "region": "west",
+        "material": "oak"
+      },
+      "next_id": "n46"
+    },
+    {
+      "id": "n46",
+      "value": 716,
+      "attrs": {
+        "color": "coral",
+        "size": 3,
+        "weight": 41,
+        "region": "west",
+        "material": "linen"
+      },
+      "next_id": "n47"
+    },
+    {
+      "id": "n47",
+      "value": 753,
+      "attrs": {
+        "color": "slate",
+        "size": 16,
+        "weight": 70,
+        "region": "west",
+        "material": "steel"
+      },
+      "next_id": "n48"
+    },
+    {
+      "id": "n48",
+      "value": 790,
+      "attrs": {
+        "color": "red",
+        "size": 29,
+        "weight": 99,
+        "region": "north",
+        "material": "basalt"
+      },
+      "next_id": "n49"
+    },
+    {
+      "id": "n49",
+      "value": 827,
+      "attrs": {
+        "color": "green",
+        "size": 42,
+        "weight": 28,
+        "region": "north",
+        "material": "glass"
+      },
+      "next_id": "n50"
+    },
+    {
+      "id": "n50",
+      "value": 864,
+      "attrs": {
+        "color": "blue",
+        "size": 5,
+        "weight": 57,
+        "region": "north",
+        "material": "oak"
+      },
+      "next_id": "n51"
+    },
+    {
+      "id": "n51",
+      "value": 901,
+      "attrs": {
+        "color": "amber",
+        "size": 18,
+        "weight": 86,
+        "region": "north",
+        "material": "linen"
+      },
+      "next_id": "n52"
+    },
+    {
+      "id": "n52",
+      "value": 938,
+      "attrs": {
+        "color": "violet",
+        "size": 31,
+        "weight": 15,
+        "region": "south",
+        "material": "steel"
+      },
+      "next_id": "n53"
+    },
+    {
+      "id": "n53",
+      "value": 975,
+      "attrs": {
+        "color": "teal",
+        "size": 44,
+        "weight": 44,
+        "region": "south",
+        "material": "basalt"
+      },
+      "next_id": "n54"
+    },
+    {
+      "id": "n54",
+      "value": 15,
+      "attrs": {
+        "color": "coral",
+        "size": 7,
+        "weight": 73,
+        "region": "south",
+        "material": "glass"
+      },
+      "next_id": "n55"
+    },
+    {
+      "id": "n55",
+      "value": 52,
+      "attrs": {
+        "color": "slate",
+        "size": 20,
+        "weight": 2,
+        "region": "south",
+        "material": "oak"
+      },
+      "next_id": "n56"
+    },
+    {
+      "id": "n56",
+      "value": 89,
+      "attrs": {
+        "color": "red",
+        "size": 33,
+        "weight": 31,
+        "region": "east",
+        "material": "linen"
+      },
+      "next_id": "n57"
+    },
+    {
+      "id": "n57",
+      "value": 126,
+      "attrs": {
+        "color": "green",
+        "size": 46,
+        "weight": 60,
+        "region": "east",
+        "material": "steel"
+      },
+      "next_id": "n58"
+    },
+    {
+      "id": "n58",
+      "value": 163,
+      "attrs": {
+        "color": "blue",
+        "size": 9,
+        "weight": 89,
+        "region": "east",
+        "material": "basalt"
+      },
+      "next_id": "n59"
+    },
+    {
+      "id": "n59",
+      "value": 200,
+      "attrs": {
+        "color": "amber",
+        "size": 22,
+        "weight": 18,
+        "region": "east",
+        "material": "glass"
+      },
+      "next_id": "n60"
+    },
+    {
+      "id": "n60",
+      "value": 237,
+      "attrs": {
+        "color": "violet",
+        "size": 35,
+        "weight": 47,
+        "region": "west",
+        "material": "oak"
+      },
+      "next_id": "n61"
+    },
+    {
+      "id": "n61",
+      "value": 274,
+      "attrs": {
+        "color": "teal",
+        "size": 48,
+        "weight": 76,
+        "region": "west",
+        "material": "linen"
+      },
+      "next_id": "n62"
+    },
+    {
+      "id": "n62",
+      "value": 311,
+      "attrs": {
+        "color": "coral",
+        "size": 11,
+        "weight": 5,
+        "region": "west",
+        "material": "steel"
+      },
+      "next_id": "n63"
+    },
+    {
+      "id": "n63",
+      "value": 348,
+      "attrs": {
+        "color": "slate",
+        "size": 24,
+        "weight": 34,
+        "region": "west",
+        "material": "basalt"
+      },
+      "next_id": null
+    }
+  ]
+}

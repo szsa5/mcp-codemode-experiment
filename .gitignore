@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+*.log
+
+# Python (synthetic ground)
+.venv/
+__pycache__/
+*.pyc

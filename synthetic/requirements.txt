@@ -1,0 +1,5 @@
+# Python dependencies for the synthetic node-graph ground.
+# Install into a local venv:  python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
+mcp[cli]>=1.28.0
+# Analysis/plotting only (results/scripts/plot.py); not needed to run the sweep.
+matplotlib>=3.10
